@@ -1,0 +1,15 @@
+D:\Console project\join\join\bin\Debug\net8.0\join.exe
+D:\Console project\join\join\bin\Debug\net8.0\join.deps.json
+D:\Console project\join\join\bin\Debug\net8.0\join.runtimeconfig.json
+D:\Console project\join\join\bin\Debug\net8.0\join.dll
+D:\Console project\join\join\bin\Debug\net8.0\join.pdb
+D:\Console project\join\join\obj\Debug\net8.0\join.GeneratedMSBuildEditorConfig.editorconfig
+D:\Console project\join\join\obj\Debug\net8.0\join.AssemblyInfoInputs.cache
+D:\Console project\join\join\obj\Debug\net8.0\join.AssemblyInfo.cs
+D:\Console project\join\join\obj\Debug\net8.0\join.csproj.CoreCompileInputs.cache
+D:\Console project\join\join\obj\Debug\net8.0\join.sourcelink.json
+D:\Console project\join\join\obj\Debug\net8.0\join.dll
+D:\Console project\join\join\obj\Debug\net8.0\refint\join.dll
+D:\Console project\join\join\obj\Debug\net8.0\join.pdb
+D:\Console project\join\join\obj\Debug\net8.0\join.genruntimeconfig.cache
+D:\Console project\join\join\obj\Debug\net8.0\ref\join.dll
